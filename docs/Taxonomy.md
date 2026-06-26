@@ -14,9 +14,9 @@ Initial tools:
 2. DS-002 Bayesian Updating
 3. DS-003 Conditional Probability
 4. DS-004 Expected Value
-5. DS-005 Expected Utility
+5. DS-005 Regression to the Mean
 6. DS-006 Law of Large Numbers
-7. DS-007 Regression to the Mean
+7. DS-007 Expected Utility
 8. DS-008 Randomness
 9. DS-009 Variance
 10. DS-010 Distribution Thinking

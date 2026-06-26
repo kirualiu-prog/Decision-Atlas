@@ -2,7 +2,7 @@
 
 This file describes how tools relate to one another.
 
-The map is not final. It will evolve as model entries are completed.
+The map is structurally complete, but may still evolve as examples and emphasis improve.
 
 ## Probability Sequence
 
@@ -13,10 +13,42 @@ DS-002 Bayesian Updating
     ↓
 DS-004 Expected Value
     ↓
+DS-007 Expected Utility
+    ↓
 DS-044 Decision Tree
 ```
 
 Use this sequence when a decision depends on uncertain information and probabilistic outcomes.
+
+## Sampling Reality Sequence
+
+```text
+DS-006 Law of Large Numbers
+    ↓
+DS-008 Randomness
+    ↓
+DS-009 Variance
+    ↓
+DS-015 Confidence Interval
+```
+
+Use this sequence when you need to tell real pattern from normal noise.
+
+## Tail Risk Sequence
+
+```text
+DS-010 Distribution Thinking
+    ↓
+DS-012 Fat Tail
+    ↓
+DS-011 Black Swan
+    ↓
+DS-013 Risk vs Uncertainty
+    ↓
+DS-014 Monte Carlo Thinking
+```
+
+Use this sequence when extreme outcomes matter more than the average case.
 
 ## Evidence Calibration Sequence
 
@@ -25,7 +57,9 @@ DS-097 Signal vs Noise
     ↓
 DS-001 Base Rate
     ↓
-DS-007 Regression to the Mean
+DS-005 Regression to the Mean
+    ↓
+DS-004 Expected Value
     ↓
 DS-002 Bayesian Updating
 ```

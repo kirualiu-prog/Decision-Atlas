@@ -4,6 +4,8 @@
 
 Purpose: establish the repository as a structured knowledge base.
 
+Status: complete.
+
 Deliverables:
 
 - README
@@ -20,6 +22,8 @@ Deliverables:
 
 Purpose: define the first 30 core tools.
 
+Status: complete as draft set.
+
 Deliverables:
 
 - DS-001 to DS-030
@@ -29,6 +33,8 @@ Deliverables:
 ## v0.3 — Decision Science and Problem Analysis
 
 Purpose: complete the main practical decision-making layer.
+
+Status: complete as draft set.
 
 Deliverables:
 
@@ -40,6 +46,8 @@ Deliverables:
 
 Purpose: create a usable early reference.
 
+Status: surpassed.
+
 Deliverables:
 
 - 50 complete model entries
@@ -50,6 +58,8 @@ Deliverables:
 
 Purpose: complete the first full version of Decision Atlas.
 
+Status: draft-complete.
+
 Deliverables:
 
 - 100 complete model entries
@@ -58,6 +68,24 @@ Deliverables:
 - Complete dependency map
 - Reference list
 - Index
+
+Current interpretation:
+
+- `DS-001` to `DS-100` now exist as first-pass model drafts with a normalized structure.
+- Taxonomy, learning path, decision guide, dependency map, and model index exist.
+- The remaining work is editorial polish, not missing structure.
+
+## Next Phase — Editorial Polish
+
+Purpose: turn the normalized draft library into a more polished reference.
+
+Deliverables:
+
+- More consistent examples and depth
+- More even depth across model entries
+- Stronger wording consistency across categories
+- Stronger guide-to-model navigation
+- Final README and roadmap polish as release notes
 
 ## Future Directions
 

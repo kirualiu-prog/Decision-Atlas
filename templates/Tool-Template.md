@@ -3,8 +3,9 @@ id: DS-000
 title: Tool Name
 title_zh: 中文名稱
 category: Category Name
-level: Core | Advanced | Expert
+level: Core
 difficulty: 1
+importance: 1
 status: Draft
 aliases: []
 tags: []
@@ -15,6 +16,8 @@ version: 0.1
 
 # DS-000 Tool Name（中文名稱）
 
+> One short sentence that captures why this tool matters.
+
 ## One-Sentence Definition
 
 A concise definition that explains the tool in one sentence.
@@ -23,18 +26,13 @@ A concise definition that explains the tool in one sentence.
 
 Explain what thinking problem this tool solves.
 
-Focus on the essence, not on academic background first.
-
 ## Core Logic
 
 Explain why the tool works.
 
-This section should answer:
+## Why It Matters
 
-- What assumption does the tool make?
-- What pattern does it reveal?
-- What error does it prevent?
-- What decision quality does it improve?
+Explain what kind of decision quality this improves.
 
 ## When to Use
 
@@ -63,28 +61,25 @@ Decision / Insight
 - Question 1?
 - Question 2?
 - Question 3?
-- Question 4?
-- Question 5?
 
-## Common Mistakes
+## Failure Modes
 
 - Mistake 1
 - Mistake 2
 - Mistake 3
 
-## Limits
+## Concept Boundary
 
-This tool does not solve:
+This tool provides one useful lens, not a complete answer by itself.
 
-- Limitation 1
-- Limitation 2
-- Limitation 3
+It usually works best alongside adjacent models.
 
-## Related Tools
+## Related Models
 
 - DS-000 Related Tool
 - DS-000 Related Tool
 
-## Summary
+## One-Sentence Summary
 
 > One memorable sentence that captures the practical meaning of the tool.
+
